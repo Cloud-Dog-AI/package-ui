@@ -1,0 +1,1 @@
+{"version":3,"file":"LogViewer.d.ts","sourceRoot":"","sources":["../../src/patterns/LogViewer.tsx"],"names":[],"mappings":"AAqBA,MAAM,MAAM,cAAc,GAAG,QAAQ,CAAC;IACpC,KAAK,EAAE,MAAM,EAAE,CAAC;IAChB,SAAS,CAAC,EAAE,MAAM,CAAC;IACnB,aAAa,CAAC,EAAE,OAAO,CAAC;CACzB,CAAC,CAAC;AAEH,wBAAgB,SAAS,CAAC,KAAK,EAAE,cAAc,2CAoD9C"}
