@@ -1,1 +1,0 @@
-{"version":3,"file":"StructuredView.d.ts","sourceRoot":"","sources":["../../src/patterns/StructuredView.tsx"],"names":[],"mappings":"AAkFA,MAAM,MAAM,mBAAmB,GAAG,QAAQ,CAAC;IACzC,KAAK,CAAC,EAAE,MAAM,CAAC;IACf,KAAK,EAAE,OAAO,CAAC;IACf,SAAS,CAAC,EAAE,MAAM,CAAC;CACpB,CAAC,CAAC;AAEH,wBAAgB,cAAc,CAAC,KAAK,EAAE,mBAAmB,2CAOxD"}

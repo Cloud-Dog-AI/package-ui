@@ -1,1 +1,0 @@
-{"version":3,"file":"JsonBlock.d.ts","sourceRoot":"","sources":["../../src/patterns/JsonBlock.tsx"],"names":[],"mappings":"AAqDA,MAAM,MAAM,cAAc,GAAG,QAAQ,CAAC;IACpC,KAAK,CAAC,EAAE,MAAM,CAAC;IACf,KAAK,EAAE,OAAO,CAAC;IACf,gBAAgB,CAAC,EAAE,OAAO,CAAC;IAC3B,SAAS,CAAC,EAAE,MAAM,CAAC;IACnB,aAAa,CAAC,EAAE,MAAM,CAAC;CACxB,CAAC,CAAC;AAEH,wBAAgB,SAAS,CAAC,KAAK,EAAE,cAAc,2CA4C9C"}

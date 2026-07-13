@@ -1,3 +1,0 @@
-import * as React from "react";
-export declare function Skeleton(props: React.HTMLAttributes<HTMLDivElement>): import("react/jsx-runtime").JSX.Element;
-//# sourceMappingURL=Skeleton.d.ts.map
